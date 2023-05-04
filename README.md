@@ -2,7 +2,7 @@
 
 I am a web development enthusiast based in Manitoba, Canada.
 
-Currently learning various web development technologies such as React, React-hooks, GraphQL, Performance, Docker, Redux, Code Splitting, Progressive Web Apps, Testing Apps, TypeScript, SPA, Server side rendering, AWS, Security, Redos, and more.
+Currently learning various web development technologies such as React, React-hooks, GraphQL, Performance, Docker, Redux, Code Splitting, Progressive Web Apps, Testing Apps, TypeScript, SPA, Server side rendering, AWS, Security, Redis, and more.
 
 I am particularly interested in building an e-commerce app using React, React-hooks, and Firebase, and you can check out my progress on [Crwn-Clothing](https://github.com/alcoranpaul/crwn-clothing).
 
