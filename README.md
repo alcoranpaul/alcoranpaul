@@ -7,7 +7,7 @@ Tech used:
 - Language - C, C#, C++, Java, JavaScript, Python, Lua, VBA
 - Softwares- Krita, LibreSprite, Unity, Unreal engine, Roblox studio, Flax Engine
 
-Currenty:
+Currently:
 - Studying Programming Practices in C, Unix environ.
 - Game jams (7 jams in 2024)
 
