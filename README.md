@@ -8,7 +8,4 @@ Tech used:
 - Softwares- Krita, LibreSprite, Unity, Unreal engine, Roblox studio, Flax Engine
 
 Currently:
-- Studying Programming Practices in C, Unix environ.
 - Game jams (7 jams in 2024)
-
-Lastly, I am proud to be Filipino and I enjoy sharing my culture with others. If you have any questions or just want to chat, don't hesitate to reach out. Thanks for stopping by!
